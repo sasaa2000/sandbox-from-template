@@ -1,3 +1,4 @@
+
 # System Architecture (Public Overview)
 
 This repository contains the public-facing documentation and interface only.
