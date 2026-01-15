@@ -43,3 +43,6 @@ Status: Future
 
 Status: Future
 Last update: First successful deployment 🎉
+> ⚠️ This is a public-facing interface only.  
+> Core systems and AI logic are intentionally private.
+
