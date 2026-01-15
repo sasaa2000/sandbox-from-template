@@ -42,3 +42,4 @@ Status: Future
 - Gradual scaling
 
 Status: Future
+Last update: First successful deployment 🎉
